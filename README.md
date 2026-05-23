@@ -1,42 +1,28 @@
-<div align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
-</div>
+# مرحبًا بك في ملفي الشخصي! 👋 أنا أسامة محمد
 
-<div align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
-</div>
+### 🎓 عني
+- **الدراسة:** طالب في كلية العلوم - قسم تكنولوجيا المعلومات (IT).
+- **الاهتمامات:** شغوف بمجالات التقنية، تحليل البيانات، والبرمجة وحل المشكلات العلمية باستخدام التكنولوجيا.
+- **الهدف:** أطمح لتطوير مهاراتي البرمجية وتوظيف العلوم التقنية في بناء حلول ذكية ومبتكرة.
 
-<div align="center">
-to my personal GitHub profile!
-</div>
+---
 
-<h3 align="center">
-<a href="https://cbp.io">Visit my personal homepage
-<img src="https://github.com/fnky/fnky/raw/fnky/img/website.gif" alt="Visit homepage" align="center">
-</a>
-</h3>
+### 💻 المهارات والتقنيات (Skills & Technologies)
+*هنا يمكنك إضافة اللغات والتقنيات التي تتعلمها أو تتقنها، على سبيل المثال:*
+- **لغات البرمجة M:** Python, C++, Java
+- **قواعد البيانات:** SQL
+- **أدوات وتطبيقات:** Git & GitHub, VS Code
 
-<hr>
+---
 
-<div align="center">
-<p>Write something nice in my guest book:</p>
-<a href="https://github.com/fnky/fnky/issues"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
-</div>
+### 📊 إحصائيات جيت هاب (GitHub Stats)
+*(ستظهر هذه البطاقات إحصائيات حسابك بشكل تلقائي بمجرد استبدال `YOUR-USERNAME` باسم حسابك الحقيقي)*
 
-<hr>
+![إحصائيات أسامة](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radial)
+![أهم اللغات المستخدمة](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radial)
 
-<div align="center">
-<p>Have a good day!</p>
-<div>
-<img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
-</div>
-</div>
+---
 
-<div align="center">
-<p></p>
-<img src="https://profile-counter.glitch.me/fnky/count.svg" alt="hit counter" align="center">
-</div>
-
-<div align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
-</div>
+### 📫 تواصل معي
+- **لينكد إن:** [حسابك على LinkedIn](رابط_حسابك)
+- **البريد الإلكتروني:** osama@example.com
